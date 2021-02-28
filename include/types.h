@@ -13,6 +13,11 @@ typedef int16_t i16;
 typedef int32_t i32;
 typedef int64_t i64;
 
+typedef float real32;
+typedef double real64;
+typedef int32_t bool32;
+typedef char * c_str;
+
 typedef unsigned char uchar;
 typedef unsigned char ascii_char;
 
